@@ -11,7 +11,9 @@ An example of an E-Commerce shop in Ionic React
 
 ```javascript
 npm install
+npm install -g @ionic/cli
 ionic serve
+npm run start
 ```
 
 Alternatively, you can add the iOS, Android platform and run natively.
